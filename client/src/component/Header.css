@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(50, 50, 50);
+
+}
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+    
+
+   
